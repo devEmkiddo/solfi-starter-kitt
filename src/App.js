@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './solfi_logo.png';
 import './App.css';
 
 function App() {
@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <p style={{fontStyle: 'italic'}}>Helping you learn blockchain...</p>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
